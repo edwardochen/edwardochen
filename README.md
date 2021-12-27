@@ -1,4 +1,4 @@
-Hi! I'm Edward, I like making cool things with even cooler people.
+Hi! I'm Edward.
 
 <!---
 edwardochen/edwardochen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
